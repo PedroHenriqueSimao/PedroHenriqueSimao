@@ -7,5 +7,5 @@
 </div>
 
 ### Sobre Mim 
-*Sou Pedro Simão tenho 17 anos, atualmente estudando HTML e CSS
-*Quero seguir carreria na área de Ciência da computação
+- Sou Pedro Simão tenho 17 anos, atualmente estudando HTML e CSS
+- Quero seguir carreria na área de Ciência da computação
