@@ -25,4 +25,4 @@
   
 ***
   
-  ![Snake animation](https://github.com/PedroHenriqueSima/PedroHenriqueSimao/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PedroHenriqueSimao/PedroHenriqueSimao/actions/workflows/cobrinha.yml)
