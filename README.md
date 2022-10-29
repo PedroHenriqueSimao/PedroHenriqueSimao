@@ -1,7 +1,7 @@
 # Muito Prazer 🖖
 
 ### Sobre Mim 🤏
-- Sou Pedro tenho 17 anos, atualmente estudando HTML e CSS 👨‍🎓
+- Sou Pedro tenho 18 anos, atualmente estudando HTML e CSS 👨‍🎓
 - Sempre me esforçando para alcançar meus objetivos 💪🏻
 - __あなたならできる。__ 🌸
 - Quer jogar alguma coisa? só chamar 😄  
